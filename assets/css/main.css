@@ -3964,7 +3964,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .inner {
-		padding: 5em 0 3em 0 ;
+		padding: 0em 0 3em 0 ;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3995,10 +3995,10 @@ input, select, textarea {
 		}
 
 		#footer .inner .copyright {
-			border-top: solid 2px rgba(255, 255, 255, 0.125);
+			border-top: solid 0px rgba(0, 0, 0, 0);
 			list-style: none;
-			margin: 4em 0 2em 0;
-			padding: 2em 0 0 0;
+			margin: 1em 0 1em 0;
+			padding: 1em 0 0 0;
 			width: 100%;
 		}
 
