@@ -3964,7 +3964,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .inner {
-		padding: 0em 0 3em 0 ;
+		padding: 2em 0 3em 0 ;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3977,7 +3977,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		margin: 0 auto;
+		margin: -60px auto;
 		width: 55em;
 	}
 
